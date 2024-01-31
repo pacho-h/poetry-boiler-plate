@@ -31,7 +31,7 @@ poetry env use python
 poetry add --group dev isort
 poetry add --group dev black
 poetry add --group dev ruff
-cat ../lint_options >> pyproject.toml
+cat ../poetry-boiler-plate/lint_options >> pyproject.toml
 
 # install dev dependencies
 poetry add --group dev pytest
