@@ -1,0 +1,83 @@
+Created package example_project in example-project
+Creating virtualenv example-project-2sXIhgfd-py3.12 in /Users/han/Library/Caches/pypoetry/virtualenvs
+Using virtualenv: /Users/han/Library/Caches/pypoetry/virtualenvs/example-project-2sXIhgfd-py3.12
+Using version ^5.13.2 for isort
+
+Updating dependencies
+Resolving dependencies... (0.1s)
+
+Package operations: 1 install, 0 updates, 0 removals
+
+  • Installing isort (5.13.2)
+
+Writing lock file
+Using version ^24.1.1 for black
+
+Updating dependencies
+Resolving dependencies... (0.1s)
+
+Package operations: 6 installs, 0 updates, 0 removals
+
+  • Installing click (8.1.7)
+  • Installing mypy-extensions (1.0.0)
+  • Installing packaging (23.2)
+  • Installing pathspec (0.12.1)
+  • Installing platformdirs (4.2.0)
+  • Installing black (24.1.1)
+
+Writing lock file
+Using version ^0.1.15 for ruff
+
+Updating dependencies
+Resolving dependencies... (0.1s)
+
+Package operations: 1 install, 0 updates, 0 removals
+
+  • Installing ruff (0.1.15)
+
+Writing lock file
+Using version ^8.0.0 for pytest
+
+Updating dependencies
+Resolving dependencies... (0.1s)
+
+Package operations: 3 installs, 0 updates, 0 removals
+
+  • Installing iniconfig (2.0.0)
+  • Installing pluggy (1.4.0)
+  • Installing pytest (8.0.0)
+
+Writing lock file
+Using version ^0.3.5 for pytest-watcher
+
+Updating dependencies
+Resolving dependencies... (0.1s)
+
+Package operations: 2 installs, 0 updates, 0 removals
+
+  • Installing watchdog (3.0.0)
+  • Installing pytest-watcher (0.3.5)
+
+Writing lock file
+Using version ^0.5.0 for pynvim
+
+Updating dependencies
+Resolving dependencies... (0.1s)
+
+Package operations: 3 installs, 0 updates, 0 removals
+
+  • Installing greenlet (3.0.3)
+  • Installing msgpack (1.0.7)
+  • Installing pynvim (0.5.0)
+
+Writing lock file
+Using version ^1.0.1 for python-dotenv
+
+Updating dependencies
+Resolving dependencies... (0.1s)
+
+Package operations: 1 install, 0 updates, 0 removals
+
+  • Installing python-dotenv (1.0.1)
+
+Writing lock file
